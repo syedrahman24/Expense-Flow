@@ -16,7 +16,6 @@ A responsive and minimal expense tracker application built with React, featuring
 - **Responsive Design**: Works seamlessly on desktop and mobile devices
 
 ### Enhanced Features
-- **Dark Mode**: Toggle between light and dark themes
 - **Form Validation**: Comprehensive error handling and validation
 - **Real-time Updates**: Charts and summaries update automatically
 - **Modern UI**: Clean, intuitive interface with smooth animations
