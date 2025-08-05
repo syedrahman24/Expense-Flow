@@ -4,6 +4,7 @@ A responsive and minimal expense tracker application built with React, featuring
 
 ![Preview](./src/screenshots/pp1.png)  ![Preview](./src/screenshots/pp3.png)  ![Preview](./src/screenshots/pp2.png)
 
+<img src="./src/screenshots/pp2.png" alt="Dark Mode Preview" width="600"/>
 ## ✨ Features
 
 ### Core Features
