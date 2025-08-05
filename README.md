@@ -2,9 +2,9 @@
 
 A responsive and minimal expense tracker application built with React, featuring a clean UI, dark mode support, and comprehensive transaction management.
 
-| Dashboard | Add Transaction | Dark Mode |
+
 |----------|------------------|------------|
-| ![Dashboard](./src/screenshots/pp1.png) | ![Form](./src/screenshots/expenseflow-add-transaction.png) | ![Dark Mode](./src/screenshots/expenseflow-dark-mode.png) |
+| ![Preview](./src/screenshots/pp1.png) | ![Form](./src/screenshots/pp2n.png) | ![Dark Mode](./src/screenshots/pp3.png) |
 
 ## ✨ Features
 
