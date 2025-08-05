@@ -1,6 +1,7 @@
-# Expense Tracker App
+# Expense Flow - Tracker App
 
 A responsive and minimal expense tracker application built with React, featuring a clean UI, dark mode support, and comprehensive transaction management.
+![Screenshot](./screenshots/pp1.png)
 
 ## ✨ Features
 
