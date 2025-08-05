@@ -2,7 +2,7 @@
 
 A responsive and minimal expense tracker application built with React, featuring a clean UI, dark mode support, and comprehensive transaction management.
 
-![Preview](./src/screenshots/pp1.png) | ![Form](./src/screenshots/pp3.png) | ![Dark Mode](./src/screenshots/pp2.png) |
+[Preview](./src/screenshots/pp1.png)  ![Form](./src/screenshots/pp3.png)  ![Dark Mode](./src/screenshots/pp2.png) |
 
 ## ✨ Features
 
