@@ -1,6 +1,8 @@
 # Expense Flow - Tracker App
 
-A responsive and minimal expense tracker application built with React, featuring a clean UI, dark mode support, and comprehensive transaction management. 🔗 [ExpenseFlow](https://expensefflow.netlify.app/)
+A responsive and minimal expense tracker application built with React, featuring a clean UI, dark mode support, and comprehensive transaction management. 
+
+Live - 🔗 [ExpenseFlow](https://expensefflow.netlify.app/)
 
 
 ![Preview](./src/screenshots/pp1.png)  ![Preview](./src/screenshots/pp3.png)  ![Preview](./src/screenshots/pp2.png)
