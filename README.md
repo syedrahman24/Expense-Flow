@@ -4,9 +4,14 @@ A responsive and minimal expense tracker application built with React, featuring
 
 Live - 🔗 [ExpenseFlow](https://expensefflow.netlify.app/)
 
-| preview 1 | preview 2 | preview 3 |
-|---------|---------|---------|
-| ![Alt1](./src/screenshots/pp1.png) | ![Alt2](./src/screenshots/pp3.png) | ![Alt3](./src/screenshots/pp2.png) |
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/syedrahman24/Expense-Flow/main/src/screenshots/pp1.png" width="400" style="border-radius: 15px;" /></td>
+    <td><img src="https://raw.githubusercontent.com/syedrahman24/Expense-Flow/main/src/screenshots/pp3.png" width="400" style="border-radius: 15px;" /></td>
+    <td><img src="https://raw.githubusercontent.com/syedrahman24/Expense-Flow/main/src/screenshots/pp2.png" width="400" style="border-radius: 15px;" /></td>
+  </tr>
+</table>
+
 
 ## ✨ Features
 
