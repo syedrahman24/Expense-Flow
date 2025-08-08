@@ -6,9 +6,9 @@ Live - 🔗 [ExpenseFlow](https://expensefflow.netlify.app/)
 
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/syedrahman24/Expense-Flow/main/src/screenshots/pp1.png" width="400" style="border-radius: 15px;" /></td>
-    <td><img src="https://raw.githubusercontent.com/syedrahman24/Expense-Flow/main/src/screenshots/pp3.png" width="400" style="border-radius: 15px;" /></td>
-    <td><img src="https://raw.githubusercontent.com/syedrahman24/Expense-Flow/main/src/screenshots/pp2.png" width="400" style="border-radius: 15px;" /></td>
+    <td><img src="https://raw.githubusercontent.com/syedrahman24/Expense-Flow/main/src/screenshots/pp1.png" width="500" style="border-radius: 15px;" /></td>
+<!--     <td><img src="https://raw.githubusercontent.com/syedrahman24/Expense-Flow/main/src/screenshots/pp3.png" width="400" style="border-radius: 15px;" /></td> -->
+    <td><img src="https://raw.githubusercontent.com/syedrahman24/Expense-Flow/main/src/screenshots/pp2.png" width="500" style="border-radius: 15px;" /></td>
   </tr>
 </table>
 
